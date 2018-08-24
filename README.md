@@ -1,0 +1,2 @@
+# lommeregner
+php lommeregner opgave
